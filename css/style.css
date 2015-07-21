@@ -1,1 +1,25 @@
 
+.left{
+    text-align: left;
+}
+.marg-left-20{
+    margin-left: 20px;
+}
+.marg-top-40{
+    margin-top: 40px;
+}
+.marg-left-40{
+    margin-left: 40px;
+}
+.marg-right-20{
+    margin-right: 20px;
+}
+.width-100{
+    width: 80%;
+}
+.center{
+    text-align: center;
+}
+.small-font{
+    font-size: 0.9em;
+}
